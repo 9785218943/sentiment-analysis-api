@@ -1,0 +1,4 @@
+venv/
+.vscode/
+.envgit add .gitignore
+git add .gitignore
